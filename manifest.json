@@ -1,0 +1,16 @@
+{
+  "name": "Selah",
+  "short_name": "Selah",
+  "start_url": "/selah/",
+  "display": "standalone",
+  "background_color": "#F5F0E8",
+  "theme_color": "#1E3A2F",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
